@@ -18,9 +18,9 @@ DeepSeek, Perplexity, Qwen) and is distributed free of charge.
 
 - **Volume 1: Critique and Transition** — a Marxist analysis of the
   crisis of capitalism, the mechanics of transition, and the
-  architecture of the GCP. [link]
+  architecture of the GCP. (en/book1_full.md)
 - **Volume 2: Architecture of the Future** — human life within the
-  system: hubs, reputation economy, life cycle, neurosociety. [link]
+  system: hubs, reputation economy, life cycle, neurosociety. (en/book2_full.md)
 
 The books can be read independently — but together they form a unified whole.
 
